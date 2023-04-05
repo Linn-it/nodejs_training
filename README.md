@@ -9,8 +9,8 @@ http://localhost:8081/api/feetIntoCenti/[number]/[number]
 
 Installation
 git clone https://github.com/Linn-it/nodejs_training.git/Assignment03
-
-npm Installation nodemon app.js
+npm Installation 
+nodemon app.js
 
 Method
 GET
