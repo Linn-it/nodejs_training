@@ -7,7 +7,7 @@
 
 Install dependencies
 ```bash
-    cd <project_name>
+    cd <Assignment07>
     npm install
 ```
     
